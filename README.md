@@ -1,7 +1,7 @@
 <img src='imgs/horse2zebra.gif' align="right" width=384>
 
 <br><br><br>
-new5 6 7 8 9 10 11 12 13 14 15
+new5 6 7 8 9 10 11 12 13 14 15 16
 
 # CycleGAN new master!!
 
