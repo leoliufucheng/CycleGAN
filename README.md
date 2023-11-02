@@ -3,7 +3,7 @@
 <br><br><br>
 new5 6 7 8 9 10 11 12 13 14 15
 
-# CycleGAN master 3
+# CycleGAN new master!!
 
 ### [PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) | [project page](https://junyanz.github.io/CycleGAN/) | [paper](https://arxiv.org/pdf/1703.10593.pdf)
 
