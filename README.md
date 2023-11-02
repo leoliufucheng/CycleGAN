@@ -1,9 +1,9 @@
 <img src='imgs/horse2zebra.gif' align="right" width=384>
 
 <br><br><br>
-new5 6 7
+new5 6 7 8 9
 
-# CycleGAN
+# CycleGAN master 3
 
 ### [PyTorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) | [project page](https://junyanz.github.io/CycleGAN/) | [paper](https://arxiv.org/pdf/1703.10593.pdf)
 
